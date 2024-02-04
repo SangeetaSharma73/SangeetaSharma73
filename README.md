@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Sangeeta Sharma</h1>
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Z16CIGH6YDv5frIoCcUfjoR_Q5YAAADWwiuR5fi4GfB-um8a-HibBVmEStq2IR8Y3kc&usqp=CAU" alt=github style="margin-bottom: 5px;" />
 "🚀 Aspiring Full Stack Web Developer weaving digital wonders with interactive UIs and a touch of creativity. Let's code together and turn ideas into captivating online experiences! 💻✨ #WebDev"
  
 ## 🚀 Quick Overview 🚀
