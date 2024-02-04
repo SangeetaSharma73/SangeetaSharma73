@@ -1,5 +1,7 @@
-<h1>Hi 👋, I'm Sangeeta Sharma</h1>
+
 <img src="https://png.pngtree.com/background/20230525/original/pngtree-female-programmer-in-front-of-computer-screens-picture-image_2734159.jpg" alt=github style="margin-bottom: 5px;" />
+
+<h1>Hi 👋, I'm Sangeeta Sharma</h1>
 
 "🚀 Aspiring Full Stack Web Developer weaving digital wonders with interactive UIs and a touch of creativity. Let's code together and turn ideas into captivating online experiences! 💻✨ #WebDev"
  
